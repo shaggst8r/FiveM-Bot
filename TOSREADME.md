@@ -13,10 +13,10 @@ At any time, you have the right to request to view the Data pertaining to your D
 **Premium Subscription**<br>
 Purchasing the Premium subscription to the bot grants access to store all player data for your server. This data is stored by default, but can be disabled by request. Your data can be requested to be deleted at any time. This player data will NOT be shared, sold, or given to anyone at any time, for any reason. This data is purely to keep track of player time in your server. This enables tracking of how long players spend playing your server. At any time, I (shaggst8r) and only I have the right to revoke your premium status with no refund. In most cases, this will only be done in cases of abuse, or TOS violations. If it is removed, you will be informed and will have a chance to appeal this decision. Under no circumstances will the premium subscription fee be refunded. All servers purchasing 'Lifetime' will be honored until the bot is no longer offered. 
 
-**Downtime of the Bot**
+**Downtime of the Bot**<br>
 The bots online status is at the mercy of the VPS provider. The owners can not control when those servers go down, nor can they control how long they are down. Users will be notified via Discord if there are expected/unexpected down times occuring. 
 
-**Lifetime of the Bot**
+**Lifetime of the Bot**<br>
 The bot will be online for the forseable future. However, not everything runs forever. The bot is subject to be removed from discord at anytime for any reason. No refunds will be given after the bot is taken offline. 
 
 **Questions**<br>
